@@ -1,0 +1,429 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2024-06-30 06:23:25",
+  "files": {
+    "D:\\Priyanka\\Coding\\code\\test\\test.vcxproj": {
+      "before": "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",
+      "after": "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"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2024-06-30 06:23:25</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[D:\Priyanka\Coding\code\test\test.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://D:\Priyanka\Coding\code\test\test.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://D:\Priyanka\Coding\code\test\test.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://D:\Priyanka\Coding\code\test\test.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://D:\Priyanka\Coding\code\test\test.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://D:\Priyanka\Coding\code\test\test.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Priyanka\Coding\code\test\test.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Priyanka\Coding\code\test\test.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Priyanka\Coding\code\test\test.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Priyanka\Coding\code\test\test.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Priyanka\Coding\code\test\test.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Priyanka\Coding\code\test\test.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Priyanka\Coding\code\test\test.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Priyanka\Coding\code\test\test.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--dwjR8VmXHg7DsmQBn9aSdwcaTBv/aOq7HcA4LBXDngE=-->
