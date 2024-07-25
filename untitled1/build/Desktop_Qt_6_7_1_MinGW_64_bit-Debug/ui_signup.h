@@ -55,10 +55,10 @@ public:
         label->setGeometry(QRect(80, 170, 231, 21));
         groupBox = new QGroupBox(centralwidget);
         groupBox->setObjectName("groupBox");
-        groupBox->setGeometry(QRect(10, 20, 391, 141));
+        groupBox->setGeometry(QRect(30, 10, 391, 141));
         pushButton = new QPushButton(groupBox);
         pushButton->setObjectName("pushButton");
-        pushButton->setGeometry(QRect(120, 110, 93, 29));
+        pushButton->setGeometry(QRect(120, 110, 121, 29));
         layoutWidget = new QWidget(groupBox);
         layoutWidget->setObjectName("layoutWidget");
         layoutWidget->setGeometry(QRect(60, 20, 255, 28));
@@ -77,7 +77,7 @@ public:
 
         pushButton_2 = new QPushButton(groupBox);
         pushButton_2->setObjectName("pushButton_2");
-        pushButton_2->setGeometry(QRect(220, 110, 93, 29));
+        pushButton_2->setGeometry(QRect(280, 110, 81, 29));
         layoutWidget1 = new QWidget(groupBox);
         layoutWidget1->setObjectName("layoutWidget1");
         layoutWidget1->setGeometry(QRect(70, 60, 183, 28));
@@ -116,11 +116,11 @@ public:
         Login->setWindowTitle(QCoreApplication::translate("Login", "Login", nullptr));
         label->setText(QCoreApplication::translate("Login", "[+] Status", nullptr));
         groupBox->setTitle(QCoreApplication::translate("Login", "Signin", nullptr));
-        pushButton->setText(QCoreApplication::translate("Login", "Login as user", nullptr));
+        pushButton->setText(QCoreApplication::translate("Login", "Signin as user", nullptr));
         label_2->setText(QCoreApplication::translate("Login", "Phonenumber", nullptr));
         pushButton_2->setText(QCoreApplication::translate("Login", "Exit", nullptr));
         label_3->setText(QCoreApplication::translate("Login", "Pin", nullptr));
-        pushButton_3->setText(QCoreApplication::translate("Login", "Login as rider", nullptr));
+        pushButton_3->setText(QCoreApplication::translate("Login", "Signin as rider", nullptr));
     } // retranslateUi
 
 };

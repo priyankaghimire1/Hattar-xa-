@@ -34,11 +34,10 @@ int main(int argc, char *argv[])
     qDebug () << "end";
     qDebug () << "start";
 
-    QSqlDatabase db1;
-    db1 =QSqlDatabase :: addDatabase ("QSQLITE");
-    db1.setDatabaseName("C:/sqlite/db1.sqlite");
+    db =QSqlDatabase :: addDatabase ("QSQLITE");
+    db.setDatabaseName("C:/sqlite/db.sqlite");
 
-    if(!db1.open ()){
+    if(!db.open ()){
 
         qDebug() << "problem opening database";
     }
@@ -53,11 +52,9 @@ int main(int argc, char *argv[])
     {
         qDebug () << "error creating table";
     }
-    db1.close();
+    db.close();
     qDebug () << "end";
     Login w;
-    //login z;
     w.show();
-    //z.show();
     return a.exec();
 }

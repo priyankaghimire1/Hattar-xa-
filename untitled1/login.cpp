@@ -63,3 +63,9 @@ void login::on_pushButton_clicked()
     }
 
 
+
+    void login::on_pushButton_2_clicked()
+    {
+       QCoreApplication::quit();
+    }
+

@@ -11,17 +11,20 @@ CONFIG += c++17
 SOURCES += \
     destination.cpp \
     login.cpp \
+    login_rider.cpp \
     main.cpp \
     signup.cpp
 
 HEADERS += \
     destination.h \
     login.h \
+    login_rider.h \
     signup.h
 
 FORMS += \
     destination.ui \
     login.ui \
+    login_rider.ui \
     signup.ui
 
 # Default rules for deployment.

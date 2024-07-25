@@ -8,6 +8,7 @@
 #include <QMessageBox>
 #include <QCoreApplication>
 #include "login.h"
+#include "login_rider.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -34,5 +35,6 @@ private:
     Ui::Login *ui;
     QSqlDatabase db;
     login *loginWindow;  // Add a member for the login window
+    login_rider *login_riderWindow;
 };
 #endif // SIGNUP_H
