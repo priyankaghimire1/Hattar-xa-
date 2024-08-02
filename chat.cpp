@@ -29,7 +29,7 @@ void chat::setCurrentPhoneNumber(const QString &phoneNumber) {
 void chat::loadMessages()
 {
     QSqlQuery query;
-    query.prepare("SELECT message FROM messages WHERE phonenumber = :phonenumber ORDER BY timestamp ASC");
+    query.prepare("SELECT message FROM messages WHERE phonenumber = :phonenumber ORDER BY timestamp DESC LIMIT 1");
     query.bindValue(":phonenumber", currentPhoneNumber);
 
     if (!query.exec()) {
@@ -43,9 +43,9 @@ void chat::loadMessages()
         ui->textEdit->append(message);// text edit widget gives this option so to display message use this
     }
 }
-// void chat::setCurrentPhoneNumber(const QString &phoneNumber) {
-//     currentPhoneNumber = phoneNumber;
-// }
+ //void chat::setCurrentPhoneNumber(const QString &phoneNumber) {
+  //  currentPhoneNumber = phoneNumber;
+ //}
 void chat::on_pushButton_clicked()
 {
     QString message = ui->lineEdit->text();
@@ -56,6 +56,7 @@ void chat::on_pushButton_clicked()
 
     // Save the message to the database
     QSqlQuery query;
+    //query.prepare("UPDATE messages SET message = :message WHERE phonenumber = :phonenumber");
     query.prepare("INSERT INTO messages (phonenumber, message) VALUES (:phonenumber, :message)");
     query.bindValue(":phonenumber", currentPhoneNumber);
     query.bindValue(":message", message);
